@@ -1,9 +1,27 @@
-cohere
-gradio
+# Google API & Authentication
+google-api-python-client
 google-auth
 google-auth-oauthlib
-google-api-python-client
-pytz
 google-auth-httplib2
-streamlit
+
+# NLP
+cohere
+
+# Date & Time Processing
+pytz
+python-dateutil
+dateparser
+tzlocal
+
+# Audio (STT/TTS/Recording)
+openai-whisper # Use OpenAI's distribution of Whisper
+pyttsx3
+sounddevice
+numpy
+scipy # For scipy.io.wavfile
+
+# Utilities
 python-dotenv
+
+# Optional (Uncomment if sounddevice has issues finding an audio backend)
+# PyAudio

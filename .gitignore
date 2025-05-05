@@ -1,0 +1,17 @@
+# Google OAuth Tokens & Credentials
+token.json
+gmail_token.pickle
+credentials.json
+
+# Environment Variables
+.env
+
+# Python Virtual Environment
+venv/
+/venv/
+*.pyc
+__pycache__/
+
+# IDE/Editor specific files (Optional but good practice)
+.vscode/
+.idea/
