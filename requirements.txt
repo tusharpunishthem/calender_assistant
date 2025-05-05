@@ -1,0 +1,9 @@
+cohere
+gradio
+google-auth
+google-auth-oauthlib
+google-api-python-client
+pytz
+google-auth-httplib2
+streamlit
+python-dotenv
